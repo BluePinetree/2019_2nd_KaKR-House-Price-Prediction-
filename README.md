@@ -1,4 +1,4 @@
-# [2019_2nd_KaKR-House-Price-Prediction](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr/overview)
+# [2019_2nd_KaKR-House-Price-Prediction](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr/overview)[57/415]
 [Kaggle Korea](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) 에서 개최한 두 번째 컴페티션입니다.<br>
 데이터는 해당 대회에서 제공하는 데이터를 사용하였으며, 각 파일마다 설명은 다음과 같습니다.<br><br>
 * HousePrice-Prediction.ipynb : 제가 제출용으로 코딩한 Jupyter Notebook 파일입니다.
